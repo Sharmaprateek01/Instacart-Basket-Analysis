@@ -61,6 +61,3 @@ Prjoect files are divided among the following folders:
 •	Analysis: Visualizations used for explaining insights
 
 •	Sent to client: Final report in Excel format
-
-
-
